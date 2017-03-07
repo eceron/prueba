@@ -22,6 +22,7 @@ public class Main {
         System.out.println("Hola mundo hola mundo");
         JOptionPane.showMessageDialog(null, "Hola desde JOption");
         System.out.println("Hola urrea");
+        JOptionPane.showMessageDialog(null, "Hola Ceron");
     }
     
 }
