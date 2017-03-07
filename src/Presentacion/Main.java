@@ -6,6 +6,7 @@
 package Presentacion;
 
 import com.oracle.xmlns.internal.webservices.jaxws_databinding.SoapBindingParameterStyle;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -19,6 +20,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo hola mundo");
+        JOptionPane.showMessageDialog(null, "Hola desde JOption");
     }
     
 }
